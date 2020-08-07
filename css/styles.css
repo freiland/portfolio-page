@@ -1,9 +1,8 @@
 img {
   float: right;
   width:45% ;
-  height:auto;
   padding: 25px;
-  margin: 10px solid black;
+  
 }
 
 h1{
@@ -13,13 +12,15 @@ h1{
 }
 
 .jumbotron {
-  padding: 60px;
+  padding: 80px;
   background-color: skyblue;
+  
 }
 
 .important{
   padding: 15 px;
   background-color: cornflowerblue;
+  
 }
 
 .skills {
@@ -31,6 +32,8 @@ h1{
 .skills li {
   font-family: 'Times New Roman', Times, serif;
   font-size: x-large;
+  color: brown;
+  font-style: oblique;
 }
 
 .special {
@@ -42,6 +45,6 @@ h1{
   color: slateblue;
   background-color: coral;
   font-size: x-large;
-  border: 12px solid cornflowerblue;
-  
+  border: 12px solid cornflowerblue;  
 }
+
