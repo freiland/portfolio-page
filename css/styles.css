@@ -4,13 +4,9 @@ img {
   height:auto;
   padding: 25px;
 }
-body {
-  background-color: white;
-  
-}
+
 h1{
-  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-  
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; 
 }
 
 .jumbotron {
@@ -21,8 +17,6 @@ h1{
 }
 
 .important{
-  margin:10 px;
-  border:8 px black;
   padding: 15 px;
   background-color: cornflowerblue;
 }
@@ -39,15 +33,9 @@ h1{
   font-size: x-large;
 }
 
-h3 li {
-  font-family: 'Times New Roman', Times, serif;
-  
-}
-
 .special {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
-  color: red;
-  
+  color: red;  
 }
 
 .peach {
