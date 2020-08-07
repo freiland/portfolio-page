@@ -12,9 +12,11 @@ h1{
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
-.jumbotron{
-  background-color: orangered;
-  border: 4 px black;
+.jumbotron {
+  border-width: 5px;
+  border: black;
+  padding: 40px;
+  background-color: skyblue;
 }
 
 .important{
@@ -32,5 +34,9 @@ h1{
 }
 
 .skills li {
+  font-family: 'Times New Roman', Times, serif;
+}
+
+h3 li {
   font-family: 'Times New Roman', Times, serif;
 }
