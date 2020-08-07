@@ -3,6 +3,7 @@ img {
   width:45% ;
   height:auto;
   padding: 25px;
+  margin: 10px solid black;
 }
 
 h1{
@@ -22,9 +23,8 @@ h1{
 }
 
 .skills {
-  margin: 12px;
-  border: 20 px solid green;
-  background-color: olive;
+  margin: 2px;
+  background-color: lightblue;
   box-sizing: border-box;
 }
 
@@ -42,6 +42,6 @@ h1{
   color: slateblue;
   background-color: coral;
   font-size: x-large;
-  border: 20px solid green;
+  border: 20px solid cornflowerblue;
   
 }
