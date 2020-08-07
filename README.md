@@ -10,9 +10,8 @@ _This webpage serves as a portfolio landing for me. It hosts links and descripti
 
 ## Setup/Installation Requirements 
 
-* _Clone this repository_
-* _Open a HTTP server in the top level of the cloned directory._
-* _Then open the web browser of your choice to the localhost._
+* _View this site at freiland.github.io/portfolio-page_
+
 
 ## Known Bugs
 
