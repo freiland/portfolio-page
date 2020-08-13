@@ -14,26 +14,27 @@ h1{
 
 .jumbotron {
   padding: 80px;
-  background-color: skyblue;
+  background-color: darkblue;
+  color: whitesmoke;
   
 }
 
 .important{
   padding: 15 px;
-  background-color: cornflowerblue;
+  background-color: rgb(163, 195, 253);
   
 }
 
 .skills {
   margin: 2px;
-  background-color: lightblue;
+  background-color: rgb(179, 236, 255);
   box-sizing: border-box;
 }
 
 .skills li {
   font-family: 'Times New Roman', Times, serif;
   font-size: x-large;
-  color: brown;
+  color: rgb(185, 14, 14);
   font-style: oblique;
 }
 
@@ -44,8 +45,8 @@ h1{
 
 .peach {
   color: slateblue;
-  background-color: coral;
+  background-color: rgb(255, 190, 167);
   font-size: x-large;
-  border: 12px solid cornflowerblue;  
+  border: 6px solid rgb(9, 82, 219);  
 }
 
