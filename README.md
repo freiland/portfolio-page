@@ -10,15 +10,15 @@ _This webpage serves as a portfolio landing for me. It hosts links and descripti
 
 ## Setup/Installation Requirements 
 
-* _View this site at freiland.github.io/portfolio-page_
+* _View this site at https://freiland.github.io/portfolio-page_
 
 OR
 
 * _Clone this repository_
 
-* _Open a simple HTTP server in the top level of the cloned directory._
+* _Open the file directory_
 
-* _Then open the web brower of your choice_
+* _Drag the index.html file into the browser of your choice._
 
 ## Known Bugs
 
@@ -38,3 +38,5 @@ _If you have any questions or concerns regarding the application in this reposit
 ### License 
 
 Copyright (c) 2020 Forrest Reiland
+
+This software is licenesed under the MIT license
