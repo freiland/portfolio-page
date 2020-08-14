@@ -18,7 +18,7 @@ OR
 
 * _Open the file directory_
 
-* _Drag the index.html file into the browswer of your choice._
+* _Drag the index.html file into the browser of your choice._
 
 ## Known Bugs
 
